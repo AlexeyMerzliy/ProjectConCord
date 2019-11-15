@@ -1,0 +1,17 @@
+2019-11-15 15:04:23 INFO  MyService:78 - Request parameters are empty!
+2019-11-15 15:04:28 INFO  MyService:40 - REQUEST: {"id":2}
+2019-11-15 15:04:28 INFO  MyService:47 - === encryption:0LZYDSyjhbVxcNcRxBFTTA==
+2019-11-15 15:04:28 INFO  MyService:52 - === decryption:{"id":2}
+2019-11-15 15:04:28 INFO  MyService:73 - RESPONSE: NULL
+2019-11-15 15:04:33 INFO  MyService:40 - REQUEST: {"id":1}
+2019-11-15 15:04:33 INFO  MyService:47 - === encryption:YCCjLdoq7ZL3T6RgfmlKxg==
+2019-11-15 15:04:33 INFO  MyService:52 - === decryption:{"id":1}
+2019-11-15 15:04:33 INFO  MyService:58 - RESPONSE: {"fio":"Test Testov"}
+2019-11-15 15:04:33 INFO  MyService:63 - === encryption:LXwxQsRfEliv3O5pJbRQjjXNgyF/HnouEKw4iCldX2g=
+2019-11-15 15:04:33 INFO  MyService:68 - === decryption:{"fio":"Test Testov"}
+2019-11-15 15:04:33 INFO  MyService:40 - REQUEST: {"id":1}
+2019-11-15 15:04:33 INFO  MyService:47 - === encryption:7utXpjgNvksqVwDAzGLzbA==
+2019-11-15 15:04:33 INFO  MyService:52 - === decryption:{"id":1}
+2019-11-15 15:04:33 INFO  MyService:58 - RESPONSE: {"fio":"Test Testov"}
+2019-11-15 15:04:33 INFO  MyService:63 - === encryption:AffsbAmz5rLukvr3KvIjOaW4X/b16qH45rgQ0LM6hQI=
+2019-11-15 15:04:33 INFO  MyService:68 - === decryption:{"fio":"Test Testov"}
